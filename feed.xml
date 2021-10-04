@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<torg_price date="2021-10-01 00:01">
+    <shop>
+        <shopname>Filtorg.ru</shopname>
+        <company>Filtorg.ru</company>
+        <url>https://filtorg.ru</url>
+        <currencies>
+            <currency id="RUB" rate="1.00000"/>
+        </currencies>
+        <categories>
+    	    <category id="136">Банкноты и боны</category>
+        	<category id="563">Почтовые марки</category>
+	        <category id="564">Монеты</category>
+        </categories>
+        <offers>
+            <offer id="4400" available="true">
+                <url>https://filtorg.ru/product/1962-2577-2579-i-spartakiada-narodov-sssr/</url>
+                <price>199</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>563</categoryId>
+                <picture>https://filtorg.ru/images/detailed/63/4400_2577-2579.jpg</picture>
+                <name>1962. СССР. 2577-2579. I Спартакиада народов СССР. 3 марки</name>
+                <description><![CDATA[  Большой выбор советских марок, посвященных теме спорта, в наличии в интернет-магазине для коллекционеров «Филторг». Заказы принимаются через сайт и по телефону (в рабочее время колл-центра). Доставка осуществляется почтовыми службами РФ до двери или в пункт выдачи.  ]]></description>
+            </offer>
+            <offer id="4442" available="true">
+                <url>https://filtorg.ru/product/pochtovaya-marka-50-let-rossiyskomu-fondu-mira-rossiya-2011/</url>
+                <price>119</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>563</categoryId>
+                <picture>https://filtorg.ru/images/detailed/9/1475.jpg</picture>
+                <name>2011. 1475. 50 лет Российскому фонду мира.</name>
+                <description><![CDATA[   Марка.   Способ печати: офсет. Цвета: многокрасочная. Бумага: мелованная. Перфорация: гребенчатая 131/2: 131/2. Формат марки: 32,5&times;32,5&nbsp;мм  Тираж: 265&thinsp;000  В&nbsp;марте 1950 года миллионы сторонников мира в&nbsp;нашей стране и&nbsp;за&nbsp;рубежом подписали Стокгольмское воззвание &laquo;О&nbsp;запрете применения атомного оружия&raquo;. Многие советские люди по&nbsp;собственной инициативе стали присылать пожертвования на&nbsp;борьбу за&nbsp;мир. Для строжайшего контроля над расходованием этих средств 27&nbsp;апреля 1961 года была создана общественная организация&nbsp;&mdash;  Советский фонд мира.  Основные направления его деятельности&nbsp;&mdash; содействие укреплению мира, дружбы и&nbsp;согласия между народами, а&nbsp;также развитие милосердия и&nbsp;гуманизма, международного сотрудничества, научных, культурных и&nbsp;молодёжных обменов. Правопреемником Советского стал  Российский фонд мира. Выпуск приурочен к&nbsp;50-тилетнему юбилею общественной организации. На&nbsp;почтовой марке  изображена эмблема Российского фонда мира. ]]></description>
+            </offer>
+            <offer id="4240" available="true">
+                <url>https://filtorg.ru/product/moneta-10-rubley-2008-sverdlovskaya-oblast-spmd/</url>
+                <price>103</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>564</categoryId>
+                <picture>https://filtorg.ru/images/detailed/58/спмд_свердл_1.jpg</picture>
+                <name>10 рублей 2008 «Свердловская область» СПМД</name>
+                <description><![CDATA[  Монета из обращения. Могут присутствовать незначительные потертости.  ]]></description>
+            </offer>
+        </offers>
+    </shop>
+</torg_price>
